@@ -1,4 +1,4 @@
-# TFM-Traductor-LSE
+# Traductor de Lengua de Signos Española mediante reconocimiento de imágenes y detección de objetos.
 ## RESUMEN
 La lengua de signos es el principal método de comunicación para personas sordas y sordomudas y es esencial para garantizar la inclusión de estas personas en una sociedad en expansión y cada vez más diversificada. En España, la lengua de signos se remonta incluso hasta el siglo XVII, siglo en el cual está datado el considerado como primer tratado moderno para la enseñanza oral de sordos. Desde entonces, la lengua de signos española no ha hecho más que evolucionar y actualmente se encuentran variantes de la lengua por comunidades, imitando la propia historia lingüística de la península. 
 En este trabajo se presenta el desarrollo de herramientas para la detección del alfabeto de la lengua de signos española que permitan la traducción de estos signos a la población general y que permitan una introducción amigable a la lengua a personas no signantes o aprendiendo la lengua.
